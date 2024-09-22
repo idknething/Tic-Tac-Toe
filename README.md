@@ -1,0 +1,1 @@
+Non-compiled python code for a terminal version of Tic Tac Toe.  Options for human vs. human or human vs. weak AI.  The so-called AI just makes random moves, and I am not much of an ASCII artist, so it is difficult to imagine the audience for this.  Requires terminal and Python to be installed on your machine to run.  Also makes use of Python's random module.
